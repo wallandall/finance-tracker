@@ -1,0 +1,21 @@
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/puma-3.11.0/ext/puma_http11
+/opt/plesk/ruby/2.4.3/bin/ruby -r ./siteconf20180114-9172-1j783bk.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20180114-9172-peab8w/puma

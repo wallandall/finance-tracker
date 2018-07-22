@@ -1,0 +1,16 @@
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.4/ext/unf_ext
+/opt/plesk/ruby/2.4.3/bin/ruby -r ./siteconf20180114-9172-1kmdgth.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.4/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.4/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/unf_ext-0.0.7.4/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20180114-9172-160m2r2

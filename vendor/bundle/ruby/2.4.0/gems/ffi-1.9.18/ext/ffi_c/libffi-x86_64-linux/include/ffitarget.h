@@ -1,0 +1,1 @@
+/var/www/vhosts/webe-solutions.com/finance-tracker.webe-solutions.com/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.18/ext/ffi_c/libffi/src/x86/ffitarget.h
